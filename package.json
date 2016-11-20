@@ -1,0 +1,19 @@
+{
+  "name": "hapijs-skeleton",
+  "version": "0.0.1",
+  "description": "A skeleton Hapi.js project for getting up and running quickly",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellee/hapijs-skeleton.git"
+  },
+  "author": "Michael Lee",
+  "bugs": {
+    "url": "https://github.com/michaellee/hapijs-skeleton/issues"
+  },
+  "homepage": "https://github.com/michaellee/hapijs-skeleton#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
